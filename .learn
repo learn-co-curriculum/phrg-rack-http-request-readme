@@ -6,3 +6,5 @@ languages:
 resources: 
   - 0
   
+
+parent_template: git@github.com:learn-co-curriculum/rack-http-request-readme.git

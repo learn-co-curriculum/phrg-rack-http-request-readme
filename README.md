@@ -122,4 +122,4 @@ class Application
 end
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rack-http-request-readme' title='The HTTP Request'>The HTTP Request</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG The HTTP Request</p>
